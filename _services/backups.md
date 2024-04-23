@@ -1,14 +1,14 @@
 ---
-title: "Superannuation"
-date: 2019-03-28T15:14:54+10:00
-weight: 5
+title: "Backups"
+date: 2018-11-18T12:33:46+10:00
+weight: 1
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Protect your data with our 3-2-1 backup strategy. Quick restoration from local storage and offsite backups on S3 compatible storage ensure data resilience.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+Our backup service ensures data protection with a 3-2-1 strategy, utilizing local and offsite storage for quick restoration and data resilience.
+
+![Backup Services](/images/illustrations/backups.svg)
 
 # Objectives
 

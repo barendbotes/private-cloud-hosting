@@ -1,15 +1,14 @@
 ---
-title: "Business Advisory"
-date: 2018-12-28T15:14:39+10:00
-weight: 4
+title: "Application Gateway Services"
+date: 2019-03-28T15:14:54+10:00
+weight: 5
 ---
 
-Business advisory is the final tier of the accounting pyramid.
-<!--more-->
+Boost web app performance with our application gateway. Seamlessly route traffic and ensure high availability for your applications.
 
-Business advisory involves reporting on performance as well as advising on strategic plans, risk assessment, and succession plans.
+Our application gateway enhances web app performance by routing traffic and ensuring high availability, optimizing your applications.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Application Gateway Services](/images/illustrations/application_gateway.svg)
 
 # Objectives
 

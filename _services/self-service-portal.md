@@ -1,12 +1,14 @@
 ---
-title: "Accounting"
-date: 2018-11-18T12:33:46+10:00
-weight: 1
+title: "Self Service Portal"
+date: 2019-01-28T15:15:26+10:00
+weight: 3
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+Empower your team with our self-service portal. Effortlessly provision, manage, and scale resources to enhance agility.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+Our self-service portal enables easy resource provisioning and management, reducing administrative overhead and enhancing agility.
+
+![Self Service Portal](/images/illustrations/self_service.svg)
 
 # Objectives
 

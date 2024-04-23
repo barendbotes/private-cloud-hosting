@@ -1,15 +1,14 @@
 ---
-title: "Insurance"
-date: 2019-05-18T12:33:46+10:00
-weight: 7
+title: "Kubernetes and Docker Management"
+date: 2019-02-28T15:15:34+10:00
+weight: 6
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+Simplify container management with our Kubernetes and Docker service. Automate deployment and scaling for efficient development cycles.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+Our Kubernetes and Docker service streamlines container management, automating deployment and scaling for efficient development.
+
+![Containerisation Services](/images/illustrations/containers.svg)
 
 # Objectives
 

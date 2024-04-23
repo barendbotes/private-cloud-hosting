@@ -1,14 +1,14 @@
 ---
-title: "Mergers"
-date: 2019-02-28T15:15:34+10:00
-weight: 3
+title: "VM Load Balancing"
+date: 2019-05-18T12:33:46+10:00
+weight: 4
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Maximize performance with our VM load balancing. Distribute traffic across VMs to prevent overloading and ensure uptime.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+Our VM load balancing distributes traffic to prevent overloading and ensure uptime, maximizing performance for your applications.
+
+![VM Load Balancing](/images/illustrations/load_balance.svg)
 
 # Objectives
 
