@@ -1,7 +1,25 @@
+networks:
+  traefik_proxy:
+    name: traefik_proxy
+    external: true
+  default:
+
 services:
   web:
     image: private-cloud-hosting:latest
     build: .
-    ports:
-      - 8283:80
+    networks:
+      traefik_proxy:
+      default:
     restart: unless-stopped
+    labels:
+      - "com.centurylinklabs.watchtower.enable=true"
+      - "traefik.enable=true"
+      - "traefik.docker.network=traefik_proxy"
+      - "traefik.http.routers.${TRAEFIK_SERVICE}.entrypoints=https"
+      - "traefik.http.routers.${TRAEFIK_SERVICE}.rule=Host(`${TRAEFIK_URL}`)"
+      - "traefik.http.services.${TRAEFIK_SERVICE}-service.loadbalancer.passhostheader=true"
+      - "traefik.http.services.${TRAEFIK_SERVICE}-service.loadbalancer.server.port=${TRAEFIK_PORT}"
+      - "traefik.http.services.${TRAEFIK_SERVICE}-service.loadbalancer.server.scheme=${TRAEFIK_SCHEME}"
+      - "traefik.http.routers.${TRAEFIK_SERVICE}.tls=true"
+      - "traefik.http.routers.${TRAEFIK_SERVICE}.middlewares=public-chain@file"
