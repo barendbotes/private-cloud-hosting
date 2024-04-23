@@ -6,8 +6,9 @@ networks:
 
 services:
   web:
-    image: private-cloud-hosting:latest
-    build: .
+    image: nginx:stable-alpine
+    volumes:
+      - ${DIR_PATH:-.}_site:/usr/share/nginx/html
     networks:
       traefik_proxy:
       default:
