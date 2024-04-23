@@ -12,75 +12,29 @@ Our self-service portal enables easy resource provisioning and management, reduc
 
 # Objectives
 
-Financial accounting and financial reporting are often used as synonyms.
+Our objective with the Self Service Portal is to empower users to efficiently provision, manage, and scale resources within the confines of their allocated resources. We aim to:
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+1. **Enhance User Experience**: Provide an easy-to-use interface that simplifies resource provisioning and management, catering to both technical and non-technical users.
+2. **Ensure Resource Isolation**: Limit access to resources to ensure that users can only manage their allocated resources, maintaining security and compliance.
+3. **Accelerate Deployment**: Offer VM deployment templates to streamline the deployment process, enabling users to quickly spin up new VM instances without manual configuration.
+4. **Facilitate Resource Management**: Provide a Resource Dashboard to enable users to monitor resource usage and performance, empowering them to optimize resource allocation and utilization.
 
-## Relevance
+Our Self Service Portal is designed to streamline resource management workflows, enhance productivity, and promote self-sufficiency within your organization, enabling you to focus on your core business activities with confidence.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+## Easy to Use
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+Our Self Service Portal is designed with simplicity in mind, offering an intuitive interface that makes resource provisioning and management effortless. With user-friendly controls and guided workflows, even non-technical users can easily deploy and manage resources with ease.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+## Limited to Your Own Resources
 
-## Faithful Representation
+The Self Service Portal provides users with access only to their allocated resources, ensuring strict adherence to resource allocation policies and preventing unauthorized access to sensitive data or infrastructure components.
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+## VM Deployment Templates
 
-## Enhancing Qualitative Characteristics
+Streamline the process of VM deployment with our pre-configured templates. Choose from a variety of templates tailored to different use cases, eliminating the need for manual configuration and reducing deployment time.
 
-### Verifiability
+## Resource Dashboard
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+Stay informed about your resource usage and performance with our Resource Dashboard. Monitor CPU, memory, and storage utilization in real-time, identify bottlenecks, and make informed decisions about resource allocation and optimization.
 
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+> At CyberSpace Hosting, we are committed to delivering a Self Service Portal that empowers users to efficiently manage their resources while ensuring security, compliance, and ease of use.

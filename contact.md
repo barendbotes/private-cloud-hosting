@@ -4,13 +4,16 @@ layout: contact
 description: Contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+At CyberSpace Hosting, we believe in transparency and accessibility. While our sales team operates during normal business hours from Monday to Friday, 8am to 5pm, our commitment to serving our clients extends beyond traditional office hours. Our business is in operation 24/7, ensuring that support and assistance are available whenever you need it. Whether it's resolving technical issues, addressing inquiries, or providing guidance, our team is here to support you around the clock.
+
+### Office Hours
 
 | Day       | Opening Hours   |
 | --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
+| Monday    | 8:00am - 5:00pm |
+| Tuesday   | 8:00am - 5:00pm |
+| Wednesday | 8:00am - 5:00pm |
+| Thursday  | 8:00am - 5:00pm |
+| Friday    | 8:00am - 5:00pm |
+| Saturday  | Closed          |
 | Saturday  | Closed          |

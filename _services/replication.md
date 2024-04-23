@@ -13,75 +13,37 @@ Our replication service ensures high availability by replicating VMs to differen
 
 # Objectives
 
-Financial accounting and financial reporting are often used as synonyms.
+Our objective with the Replication service is to provide our clients with a resilient and highly available infrastructure that ensures continuous operation of their critical workloads. We aim to:
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+1. **Ensure Business Continuity**: Enable businesses to maintain uninterrupted operation of their services by replicating virtual machines to different geographic locations, ensuring geo redundancy and resilience against localized outages or disasters.
+2. **Minimize Downtime**: Minimize downtime and data loss with incremental replication techniques and continuous synchronization, ensuring that replicated VMs are always up to date with the latest changes and ready for failover at any moment.
+3. **Facilitate Disaster Recovery**: Serve as a cornerstone of our clients' disaster recovery strategy, providing automatic failover capabilities in the event of a zone failure or outage, and ensuring seamless recovery and business continuity.
+4. **Optimize Resource Utilization**: Employ efficient replication strategies to minimize bandwidth usage and optimize replication efficiency, ensuring that replication operations are fast, efficient, and minimally disruptive to the network infrastructure.
+5. **Enhance Data Resilience**: Enhance data resilience and availability by spreading workloads across multiple zones, providing geo redundancy and resilience against localized outages or disasters, and ensuring that critical workloads remain protected and accessible to users at all times.
 
-## Relevance
+With these objectives in mind, our Replication service is tailored to meet the diverse needs of businesses across industries, offering peace of mind and confidence in the availability and resilience of their critical workloads.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+## Service Level Agreement (SLA)
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+| Service Component        | Details                                                     |
+|--------------------------|-------------------------------------------------------------|
+| Replication Schedule     | Daily at 02:00                                              |
+| Retained Increments      | 2 increments retained to provide a minimal rollback window  |
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+## Incremental Replication
 
-## Faithful Representation
+Our Replication service employs incremental replication techniques to minimize bandwidth usage and optimize replication efficiency. By only transferring the changes made since the last replication, we ensure that replication operations are fast, efficient, and minimally disruptive to your network infrastructure.
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+## Geo Redundancy
 
-## Enhancing Qualitative Characteristics
+With our Replication service, your VMs are replicated to different geographic locations, providing geo redundancy and resilience against localized outages or disasters. By spreading your workload across multiple zones, we ensure that your services remain available and accessible to your users at all times.
 
-### Verifiability
+## Disaster Recovery
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+Our Replication service plays a crucial role in your disaster recovery strategy. In the event of a zone failure or outage, our system automatically fails over to the replicated VMs in another zone, minimizing downtime and ensuring business continuity. With our Replication service, you can rest assured that your critical workloads are protected and recoverable in any scenario.
 
-### Comparability
+## Continuous Replication
 
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+We offer continuous replication capabilities to ensure that your replicated VMs are always up to date with the latest changes. By continuously synchronizing data between zones, we eliminate the risk of data loss and ensure that your failover process is seamless and transparent to your users.
 
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+> At CyberSpace, we take pride in delivering reliable and comprehensive replication solutions that prioritize the availability and resilience of your critical workloads. With our Replication service, you can have peace of mind knowing that your data and services are protected and accessible whenever you need them.

@@ -12,75 +12,47 @@ Our backup service ensures data protection with a 3-2-1 strategy, utilizing loca
 
 # Objectives
 
-Financial accounting and financial reporting are often used as synonyms.
+Our objective with the Backup service is to provide our clients with a robust and reliable solution for safeguarding their critical data assets. We aim to:
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+1. **Ensure Data Protection**: Protect our clients' valuable data against loss, corruption, and unauthorized access through comprehensive backup strategies and encryption measures.
 
-## Relevance
+2. **Enhance Business Resilience**: Enable businesses to recover quickly from data incidents, minimize downtime, and maintain operational continuity, thereby safeguarding their reputation and revenue streams.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+3. **Facilitate Compliance**: Assist clients in meeting regulatory requirements and industry standards by implementing backup policies and procedures that ensure data integrity and confidentiality.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+4. **Optimize Resource Utilization**: Employ efficient backup techniques such as incremental backups and smart control features to minimize storage costs and optimize resource utilization.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+5. **Empower Decision-Making**: Provide clients with actionable insights and transparency into their backup processes through detailed reports and analytics, empowering them to make informed decisions about their data protection strategies.
 
-## Faithful Representation
+With these objectives in mind, our Backup service is tailored to meet the diverse needs of businesses across industries, offering peace of mind and confidence in the security and availability of their data assets.
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+## Service Level Agreement (SLA)
 
-## Enhancing Qualitative Characteristics
+| Service Component         | Details                                                         |
+|---------------------------|-----------------------------------------------------------------|
+| Backup Schedule           | Daily at 00:00                                                  |
+| Retained Increments       | 7 increments retained to provide a rolling backup window        |
+| Health Checks             | Enabled to verify the integrity and restorability of backups    |
+| Email Reports             | Automatically generated and sent after every backup cycle       |
 
-### Verifiability
+## Backup Reports via Email
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+Stay informed about the status of your backups with our convenient email reports. Receive regular updates on the success or failure of your backup jobs, allowing you to stay proactive and address any issues promptly.
 
-### Comparability
+## Incremental Backups
 
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+Minimize backup storage requirements and reduce backup windows with our incremental backup feature. Our system intelligently identifies and backs up only the changes made since the last backup, ensuring efficiency and saving valuable storage space.
 
-### Understandability
+## Smart Control
 
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+Take control of your backup strategy with our intuitive and flexible Smart Control feature. Customize backup schedules, retention policies, and backup destinations to align with your business needs and compliance requirements. Our Smart Control empowers you to tailor your backup strategy for optimal efficiency and data protection.
 
----
+## Encryption
 
-## Statement of cash flows
+Protect your data from unauthorized access and ensure confidentiality with our robust encryption capabilities. Our Backup service offers encryption-at-rest and encryption-in-transit options, ensuring that your data remains secure throughout the backup process.
 
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
+## S3 Compatible Backups
 
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
+Benefit from seamless integration with Amazon S3-compatible storage solutions. Our Backup service allows you to store your backups directly in your preferred S3-compatible storage environment, providing flexibility and scalability for your backup storage needs.
 
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+> At CyberSpace Hosting, we take pride in delivering reliable and comprehensive backup solutions that prioritize the security and availability of your data. With our Backup service, you can have peace of mind knowing that your data is protected and accessible whenever you need it.
