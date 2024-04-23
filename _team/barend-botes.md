@@ -3,7 +3,7 @@ title: "Barend Botes"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/avatar.svg"
 jobtitle: "Co-Founder"
-linkedinurl: "https://www.linkedin.com/"
+linkedinurl: "https://www.linkedin.com/barendbotes91"
 promoted: true
 weight: 1
 ---
