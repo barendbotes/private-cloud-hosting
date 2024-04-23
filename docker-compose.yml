@@ -1,0 +1,8 @@
+services:
+  web:
+    image: nginx:stable
+    build:
+      context: .
+    ports:
+      - 8283:80
+    restart: unless-stopped
