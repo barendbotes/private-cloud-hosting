@@ -1,8 +1,7 @@
 services:
   web:
-    image: nginx:stable
-    build:
-      context: .
+    image: nginx:stable-alpine
+    build: .
     ports:
       - 8283:80
     restart: unless-stopped
