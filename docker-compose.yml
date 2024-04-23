@@ -1,6 +1,6 @@
 services:
   web:
-    image: nginx:stable-alpine
+    image: private-cloud-hosting:latest
     build: .
     ports:
       - 8283:80
