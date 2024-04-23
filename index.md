@@ -1,7 +1,7 @@
 ---
 title: CyberSpace Hosting
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: CyberSpace is a leading private cloud provider, offering innovative and reliable cloud solutions tailored to businesses' unique needs.
 intro_image: "images/illustrations/server_cluster.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
