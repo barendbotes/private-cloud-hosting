@@ -25,5 +25,32 @@
       "width": 80,
       "height": 80
     }
+  },
+  {
+    "title": "Intuitive Self-Service Portal",
+    "description": "Easily provision, manage, and scale resources with a user-friendly self-service portal.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Robust Security and Auditing",
+    "description": "Multi-layered security and regular auditing ensure compliance and protect against threats.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Compliance-Driven Design",
+    "description": "Built to meet industry standards, ensuring data integrity and confidentiality.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
   }
 ]

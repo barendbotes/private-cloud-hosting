@@ -1,7 +1,7 @@
 ---
 title: "Replication"
 date: 2018-12-28T15:14:39+10:00
-weight: 2
+weight: 3
 ---
 
 Stay resilient with our replication service. VMs replicated to different zones enable seamless failover, ensuring business continuity.

@@ -1,7 +1,7 @@
 ---
 title: "VM Load Balancing"
 date: 2019-05-18T12:33:46+10:00
-weight: 4
+weight: 5
 ---
 
 Maximize performance with our VM load balancing. Distribute traffic across VMs to prevent overloading and ensure uptime.

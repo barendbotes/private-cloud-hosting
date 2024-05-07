@@ -1,7 +1,7 @@
 ---
 title: "Hybrid Cloud"
 date: 2019-02-28T15:15:34+10:00
-weight: 6
+weight: 7
 ---
 
 Our Hybrid Cloud service integrates client-owned hardware into our Private Cloud infrastructure, offering scalability and control. With easy management via our Self Service Portal, robust Disaster Recovery, and secure colocation options, clients gain agility and resilience within a secure environment.

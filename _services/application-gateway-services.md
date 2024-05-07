@@ -1,7 +1,7 @@
 ---
 title: "Application Gateway Services"
 date: 2019-03-28T15:14:54+10:00
-weight: 5
+weight: 6
 ---
 
 Boost web app performance with our application gateway. Seamlessly route traffic and ensure high availability for your applications.

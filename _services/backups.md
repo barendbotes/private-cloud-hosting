@@ -1,7 +1,7 @@
 ---
 title: "Backups"
 date: 2018-11-18T12:33:46+10:00
-weight: 1
+weight: 2
 ---
 
 Protect your data with our 3-2-1 backup strategy. Quick restoration from local storage and offsite backups on S3 compatible storage ensure data resilience.

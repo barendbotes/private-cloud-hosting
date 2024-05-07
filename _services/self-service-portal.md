@@ -1,7 +1,7 @@
 ---
 title: "Self Service Portal"
 date: 2019-01-28T15:15:26+10:00
-weight: 3
+weight: 4
 ---
 
 Empower your team with our self-service portal. Effortlessly provision, manage, and scale resources to enhance agility.
